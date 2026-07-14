@@ -6,9 +6,11 @@ Place for LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
