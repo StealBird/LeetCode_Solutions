@@ -3,7 +3,7 @@ class Solution(object):
         n = len(nums)
         count = 0
         maxim = 0
-        for i in range(0,n):
+        for i in range(n):
             if nums[i]==1:
                 count+=1
             else:
