@@ -9,6 +9,7 @@ Place for LeetCode Solutions
 | [0001-two-sum](https://github.com/StealBird/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/StealBird/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/StealBird/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/StealBird/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StealBird/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ Place for LeetCode Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/StealBird/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/StealBird/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
