@@ -27,6 +27,7 @@ Place for LeetCode Solutions
 | [0027-remove-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/StealBird/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/StealBird/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/StealBird/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StealBird/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -77,4 +78,8 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StealBird/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/StealBird/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
