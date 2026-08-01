@@ -56,6 +56,7 @@ Place for LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/StealBird/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
