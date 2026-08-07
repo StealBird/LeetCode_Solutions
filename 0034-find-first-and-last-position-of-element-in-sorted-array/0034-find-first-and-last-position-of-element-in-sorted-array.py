@@ -35,7 +35,6 @@ class Solution:
                 else:
                     end = mid - 1
             return last
-            
-        first = firstIndex(nums,target)
-        last = lastIndex(nums,target)
-        return [first,last]      
+
+        
+        return [firstIndex(nums,target),lastIndex(nums,target)]      
