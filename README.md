@@ -31,6 +31,7 @@ Place for LeetCode Solutions
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/StealBird/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/StealBird/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/StealBird/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StealBird/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -76,6 +77,7 @@ Place for LeetCode Solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/StealBird/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/StealBird/LeetCode_Solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -93,6 +95,7 @@ Place for LeetCode Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/StealBird/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -135,4 +138,24 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/StealBird/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
