@@ -12,6 +12,7 @@ Place for LeetCode Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/StealBird/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/StealBird/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/StealBird/LeetCode_Solutions/tree/master/0048-rotate-image) |
@@ -74,6 +75,7 @@ Place for LeetCode Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/StealBird/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
