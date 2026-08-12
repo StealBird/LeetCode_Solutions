@@ -36,6 +36,7 @@ Place for LeetCode Solutions
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/StealBird/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/StealBird/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/StealBird/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StealBird/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -86,6 +87,7 @@ Place for LeetCode Solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/StealBird/LeetCode_Solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
