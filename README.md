@@ -18,6 +18,7 @@ Place for LeetCode Solutions
 | [0048-rotate-image](https://github.com/StealBird/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/StealBird/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/StealBird/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/StealBird/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/StealBird/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -75,6 +76,7 @@ Place for LeetCode Solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/StealBird/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/StealBird/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
