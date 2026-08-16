@@ -36,6 +36,7 @@ Place for LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/StealBird/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -56,6 +57,7 @@ Place for LeetCode Solutions
 | [0125-valid-palindrome](https://github.com/StealBird/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/StealBird/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StealBird/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@ Place for LeetCode Solutions
 | [0169-majority-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +94,7 @@ Place for LeetCode Solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/StealBird/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -106,6 +110,7 @@ Place for LeetCode Solutions
 | [0169-majority-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
