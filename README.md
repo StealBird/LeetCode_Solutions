@@ -81,6 +81,7 @@ Place for LeetCode Solutions
 | [0009-palindrome-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/StealBird/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/StealBird/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/StealBird/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
@@ -90,6 +91,7 @@ Place for LeetCode Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/StealBird/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/StealBird/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -181,4 +183,8 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/StealBird/LeetCode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
