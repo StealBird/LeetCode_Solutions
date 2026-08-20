@@ -98,6 +98,7 @@ Place for LeetCode Solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/StealBird/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -190,4 +191,8 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/StealBird/LeetCode_Solutions/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/StealBird/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
