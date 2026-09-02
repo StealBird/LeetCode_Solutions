@@ -95,6 +95,7 @@ Place for LeetCode Solutions
 | [0189-rotate-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Place for LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/StealBird/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -242,4 +244,8 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
