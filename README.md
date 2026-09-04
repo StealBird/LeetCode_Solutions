@@ -170,6 +170,7 @@ Place for LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/StealBird/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/StealBird/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -222,6 +223,7 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
