@@ -45,6 +45,7 @@ Place for LeetCode Solutions
 | [0463-island-perimeter](https://github.com/StealBird/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/StealBird/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/StealBird/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/StealBird/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -98,6 +99,7 @@ Place for LeetCode Solutions
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/StealBird/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Place for LeetCode Solutions
 | [0242-valid-anagram](https://github.com/StealBird/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/StealBird/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
