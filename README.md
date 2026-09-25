@@ -313,6 +313,7 @@ Place for LeetCode Solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/StealBird/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/StealBird/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/StealBird/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/StealBird/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/StealBird/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
