@@ -277,6 +277,7 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -299,6 +300,7 @@ Place for LeetCode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/StealBird/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -326,4 +328,12 @@ Place for LeetCode Solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/StealBird/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
