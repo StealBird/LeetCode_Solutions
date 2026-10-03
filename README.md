@@ -175,6 +175,7 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/StealBird/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/StealBird/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -198,6 +199,7 @@ Place for LeetCode Solutions
 | [0020-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/StealBird/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/StealBird/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -285,6 +287,7 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/StealBird/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -293,6 +296,7 @@ Place for LeetCode Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
