@@ -183,6 +183,7 @@ Place for LeetCode Solutions
 | [0152-maximum-product-subarray](https://github.com/StealBird/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/StealBird/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Place for LeetCode Solutions
 | [0344-reverse-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/StealBird/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
+| [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -290,6 +292,7 @@ Place for LeetCode Solutions
 | [0032-longest-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/StealBird/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -297,11 +300,13 @@ Place for LeetCode Solutions
 | [0020-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/StealBird/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
