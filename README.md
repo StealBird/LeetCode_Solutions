@@ -210,6 +210,7 @@ Place for LeetCode Solutions
 | [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -293,6 +294,7 @@ Place for LeetCode Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/StealBird/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -301,6 +303,7 @@ Place for LeetCode Solutions
 | [0022-generate-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
