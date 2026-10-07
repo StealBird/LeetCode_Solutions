@@ -205,6 +205,7 @@ Place for LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/StealBird/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/StealBird/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/StealBird/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
@@ -331,6 +332,7 @@ Place for LeetCode Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/StealBird/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 ## Prefix Sum
 |  |
@@ -370,4 +372,5 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
