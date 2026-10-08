@@ -3,15 +3,15 @@ class Solution:
         result = []
         depth = 0
 
-        for c in s:
-            if c == "(":
+        for ch in s:
+            if ch == '(':
                 if depth > 0:
-                    result.append(c)
+                    result.append(ch)
                 depth += 1
-            else: # c==")":
+
+            else:  # ch == ')'
                 depth -= 1
                 if depth > 0:
-                    result.append(c)
-                
+                    result.append(ch)
+
         return ''.join(result)
-        
