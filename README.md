@@ -25,6 +25,7 @@ Place for LeetCode Solutions
 | [0075-sort-colors](https://github.com/StealBird/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/StealBird/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/StealBird/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StealBird/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -165,6 +166,7 @@ Place for LeetCode Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/StealBird/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/StealBird/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 ## Counting
@@ -369,10 +371,12 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -382,4 +386,8 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StealBird/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
