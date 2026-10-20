@@ -338,11 +338,13 @@ Place for LeetCode Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/StealBird/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/StealBird/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 ## Prefix Sum
@@ -377,12 +379,14 @@ Place for LeetCode Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/StealBird/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
