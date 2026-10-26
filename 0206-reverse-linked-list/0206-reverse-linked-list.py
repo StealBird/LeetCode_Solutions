@@ -5,19 +5,14 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-        curr = head
         prev = None
-        while curr!=None:
-            next_Node = curr.next
-            curr.next = prev
-            prev = curr
-            curr = next_Node
+        curr = head
 
-        return prev
+        while curr:
+            nxt = curr.next    # save the rest of the list
+            curr.next = prev   # flip the pointer
+            prev = curr        # move prev forward
+            curr = nxt         # move curr forward
 
-        
-            
-        
-
-
+        return prev            # prev is the new head
         
