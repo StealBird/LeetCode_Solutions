@@ -1,9 +1,12 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        hash = {}
-        for i,num in enumerate(nums):
-            complement = target - num
-            if complement in hash:
-                return [hash[complement], i]
-            hash[num] = i
-        return [-1, -1]
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        seen = {}  # number -> index
+
+        for i, num in enumerate(nums):
+            need = target - num
+            if need in seen:
+                return [seen[need], i]
+            seen[num] = i
+
+        return []
+        
