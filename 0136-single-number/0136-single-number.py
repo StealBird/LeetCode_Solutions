@@ -1,8 +1,7 @@
-class Solution(object):
-    def singleNumber(self, nums):
-        xorr = 0
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        xor = 0
         for num in nums:
-            xorr ^= num
-        return xorr
+            xor ^= num
         
-        
+        return xor
