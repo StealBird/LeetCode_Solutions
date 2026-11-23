@@ -317,6 +317,7 @@ Place for LeetCode Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/StealBird/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/StealBird/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/StealBird/LeetCode_Solutions/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/StealBird/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/StealBird/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -432,4 +433,9 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/StealBird/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/StealBird/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/StealBird/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
