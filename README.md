@@ -48,6 +48,7 @@ Place for LeetCode Solutions
 | [0463-island-perimeter](https://github.com/StealBird/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/StealBird/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/StealBird/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/StealBird/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/StealBird/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/StealBird/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -112,6 +113,7 @@ Place for LeetCode Solutions
 | [0268-missing-number](https://github.com/StealBird/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/StealBird/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/StealBird/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/StealBird/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/StealBird/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 ## Math
 |  |
@@ -319,6 +321,7 @@ Place for LeetCode Solutions
 | [0224-basic-calculator](https://github.com/StealBird/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/StealBird/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/StealBird/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/StealBird/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/StealBird/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/StealBird/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/StealBird/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -438,4 +441,8 @@ Place for LeetCode Solutions
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/StealBird/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/StealBird/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
